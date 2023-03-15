@@ -1,0 +1,179 @@
+body {
+    font-family: montserrat, sans-serif ;
+}
+
+#title {
+    background-color: grey;
+    color: white;
+    padding-bottom: 150px;
+    right: 30%;
+
+    
+} 
+
+#features {
+    background-color: white;
+}
+
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+h1 {
+    font-family: montserrat, sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.2;
+    font-weight: 600;
+}
+
+h2 {
+    font-family: montserrat, sans-serif;
+    font-weight: 700;
+    font-size: 2.7rem;
+    line-height: 1.5;
+    
+}
+
+h3 {
+    font-family: montserrat, sans-serif;
+    font-weight: 700;
+    font-size: 2.7rem;
+    line-height: 1.5;
+}
+
+p {
+    color: gray;
+}
+
+/* navigation bar */
+
+.navbar {
+    padding-bottom: 1.2rem;
+}
+
+
+.navbar-brand {
+    font-family: Ubuntu, sans-serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+    display: swap;
+
+}
+
+.nav-items {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: montserrat-light, sans-serif;
+}
+
+/* download button */
+
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+
+/* title image */
+
+.title-image {
+    width: 20%;
+    transform: rotate(25deg);
+    position: absolute;
+}
+
+/* feature section */
+
+#features {
+    padding: 7% 20%;
+    position: relative;
+
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+
+.icon {
+    color: red;
+    margin-bottom: 1rem;
+}
+
+.icon:hover {
+    color: olivedrab;
+}
+
+/* testimonial section */
+
+#testimonials {
+    
+    text-align: center;
+    background-color: grey;
+    color: white;
+}
+
+.testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.carousel-item {
+    padding: 7% 20%;
+}
+
+#press {
+    background-color: gray;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 10%;
+    margin: 20px 20px;
+}
+
+/* pricing section */
+
+#pricing {
+    padding: 50px;
+    text-align: center;
+}
+
+
+.pricing-column {
+    padding: 3% 2%;
+}
+
+
+
+#cta {
+    background-color: grey;
+    color: white;
+    text-align: center;
+    
+}
+
+.Today {
+    padding: 7% 25% 0;
+}
+
+
+
+#footer {
+    background-color: white;
+    color: red;
+    text-align: center;
+    padding: 60px;
+}
+
+
+.social-icon {
+    margin: 20px 10px;
+}
+
+
+
